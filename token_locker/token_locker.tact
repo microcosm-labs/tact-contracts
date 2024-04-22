@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: AGPL-3.0
 // Copyright (C) Microcosm Labs 2023
 // Authors: @0kenx
 // GitHub: https://github.com/microcosm-labs
